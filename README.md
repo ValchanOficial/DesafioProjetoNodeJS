@@ -1,4 +1,4 @@
-# Rocketseat - Desafio: Conceitos do React Native
+# Rocketseat - Desafio: Primeiro projeto Node.js
 
 ## Sobre o desafio
 
